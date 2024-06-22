@@ -42,7 +42,7 @@ git clone https://github.com/Techbyets/Stealthcheck.git
 ```
 
 ```
-cd StealthCheck.py
+cd Stealthcheck.py
 ```
 
 ### 3. Make the Script Executable
