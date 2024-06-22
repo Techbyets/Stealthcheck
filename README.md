@@ -42,7 +42,7 @@ git clone https://github.com/Techbyets/Stealthcheck.git
 ```
 
 ```
-cd your-repo
+cd StealthCheck.py
 ```
 
 ### 3. Make the Script Executable
@@ -77,16 +77,15 @@ Follow the on-screen prompts to select the service you want to check, and input 
 2. Choose Mass Account Check.
 3. Provide a list with email:password pairs formatted as:
 
-```
 email1@example.com:password1
 email2@example.com:password2
-...
-```
 
 ## External Links
 
 - **Join our Telegram**: [DroidDevHub](https://t.me/DroidDevHub)
+- 
 - **Follow on GitHub**: [Techbyets](https://github.com/Techbyets)
+- 
 - **Subscribe to our YouTube**: [DroidDevHub Official](https://youtube.com/@droiddevhub_official?si=TU5H1RDZyh5Dncnb)
 
 ## Contributing
