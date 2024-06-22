@@ -28,6 +28,8 @@ First, ensure that your Termux environment is up-to-date and install necessary p
 
 ```bash
 apt update && apt upgrade -y
+```
+```
 pkg install python git -y
 ```
 
@@ -36,7 +38,10 @@ pkg install python git -y
 Next, clone the StealthCheck repository to your Termux environment:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Techbyets/Stealthcheck.git
+```
+
+```
 cd your-repo
 ```
 
